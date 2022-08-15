@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, Soy Martin Castro</h1>
 <h3 align="center">Desarrollador Web FullStack</h3>
-
 <h3 align="left">Skills:</h3>
 <p align="left">
 <b>Lenguajes de Programación:</b>
